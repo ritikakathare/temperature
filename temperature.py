@@ -10,5 +10,5 @@ elif 15 <= temp <= 30:
     result = "Normal"
 else:
     result = "Hot"
-print("Temperature (°C):", temp)
+print("Temperature (C):", temp)
 print("Condition:", result)
